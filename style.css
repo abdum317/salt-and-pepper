@@ -1,0 +1,17 @@
+/* .image{
+    width: 120px;
+}
+}
+a{
+    text-decoration: none;
+}
+.header{
+    background-color: #222222;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px; */
+.header{
+    background-color: #222222;
+    padding: 10px;
+    margin: -10px;
+}
