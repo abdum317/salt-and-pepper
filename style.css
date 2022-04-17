@@ -1,6 +1,6 @@
 .header{
     background-color: #222222;
-    padding: 5px;
+    padding: 10px;
     margin: -10px;
     height: 60px;
 }
@@ -14,7 +14,7 @@
     color: #ffffff;
     font-size: 18px;
     font-weight: bold;
-    margin: 15px;
+    margin: 12px;
 }
 .a-head{
     margin-top: 35px;
@@ -52,6 +52,26 @@
     text-decoration: none;
     color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
-    
+    font-size: 15px;    
+}
+.delivery-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.ii{
+    border: 2px solid #cc1d24;
+}
+.background{
+    width: 100%;
+    margin: -10px;
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -20px;
+    margin-left: -20px;
+    margin-top: -10px;
 }
