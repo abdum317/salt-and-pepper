@@ -92,6 +92,7 @@
     flex-direction: column;
     background-image: url(images/salt-n-pepper-express-background.jpg);
     background-attachment: fixed;
+    border: 1px solid #cc1d24;
 }
 .logo{
     border: 1px solid black;
@@ -110,6 +111,7 @@
     width: 20%;
     display: flex;
     justify-content: center;
+    padding: 60px;
 }
 .welcome{
     font-family: josefinsans;
@@ -145,3 +147,91 @@
     margin-top: -20px;
 
 }
+.centre{
+    background-color: #222222;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     margin: -10px; 
+}
+.minar{
+    width: 350px;
+    margin-top: 50px;
+}
+.backk{
+    margin-top: 40px;
+}
+.restaurant{
+    font-size: 50px;
+    color: #cc1d24;
+    font-family: philosopher;
+    margin-top: 10px;
+}
+.para{
+    font-size: 20px;
+    font-family: philosopher;
+    color: #ffffff;
+    margin-top: -40px;
+    font-weight: lighter;
+}
+.location-icon{
+    width: 30px;
+    margin-top: 30px;
+}
+.islamabad{
+    text-align: center;
+    background-image: url(images/islamabad.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    margin-right: 25px;
+}
+.faisalabad{
+    text-align: center;
+    background-image: url(images/SaltnPepper-faislabad.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    margin-right: 25px;
+}
+.bahawalpur{
+    text-align: center;
+    background-image: url(images/Salt-n-Pepper-Restaurant-Bahawalpur-Franchise.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+}
+.img-span{
+    opacity: 30%;
+}
+.h3{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-weight: bolder;
+}
+.p1{
+    color: white;
+    font-size: 15px;
+}
+.p2{
+   color: #ffffff; 
+   font-weight: bolder;
+}
+.bg-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
