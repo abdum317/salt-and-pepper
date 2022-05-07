@@ -154,6 +154,7 @@
     justify-content: center;
     align-items: center;
      margin: -10px; 
+     border: 2px solid #cc1d24;
 }
 .minar{
     width: 350px;
@@ -192,9 +193,10 @@
 }
 .faisalabad{
     text-align: center;
-    background-image: url(images/SaltnPepper-faislabad.jpg);
+    background-image:  url(images/SaltnPepper-faislabad.jpg);
     background-position: 100%;
     background-size: 100%;
+    background-blend-mode: darken;
     height: 250px;
     width: 350px;
     border: 3px solid #ffffff;
@@ -234,4 +236,177 @@
     align-items: center;
     padding: 50px;
 }
-
+.motorway{
+    text-align: center;
+    background-image: url(images/behra.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    margin-right: 25px;
+}
+.pakages-mall{
+    text-align: center;
+    background-image: url(images/express\ pakage\ mall.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    margin-right: 25px;
+}
+.emporium{
+    text-align: center;
+    background-image: url(images/emporium.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    height: 250px;
+    width: 350px;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+}
+.h3head{
+    font-size: 50px;
+    color: #cc1d24;
+    font-family: philosopher;
+    margin-top: 10px;
+    text-align: center;
+}
+.hr1{
+    width: 400px;
+    margin-top: 5px;
+}
+.franchise-box{
+    display: flex;
+    padding: 50px;
+}
+.opening{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+    margin-top: -30px;
+}
+.hr2{
+    width: 100px;
+}
+.gujranwala , .wapda , .al-jalil{
+    background-color: #ffffff;
+    border: 2px solid #cc1d24;
+    width: 350px;
+    height: 200px;
+    margin-right: 20px;
+}
+.kamoke ,.sheikh{
+    background-color: #ffffff;
+    border: 2px solid #cc1d24;
+    width: 350px;
+    height: 200px;
+    margin-right: 20px;  
+    margin-bottom: 80px;
+}
+.p11{
+    color: #222222;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.location-iconn{
+    width: 30px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+.boxx{
+    display: flex;
+    margin-top: 20px;
+    padding: 30px;
+}
+.remain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.box5{
+    background-color: #ffffff;
+    border: 2px solid #cc1d24;
+    width: 350px;
+    height: 200px;
+    margin-right: 20px;
+    margin: auto;   
+    margin-top: 40px;
+    padding: 20px;
+    
+}
+.hr3{
+    width: 100px;
+    margin-top: -30px;
+}
+.hr8{
+    width: 1500px;
+    
+}
+.h4head{
+    font-size: 50px;
+    color: #cc1d24;
+    font-family: philosopher;
+    margin-top: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
+.last2{
+    margin-bottom: 100px;
+}
+.footer{
+    background-color: #222222;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.paraa{
+    color: #ffffff;
+}
+.tr1{
+    margin-left: 20px;
+}
+.play{
+    width: 150px;
+}
+.plays{
+    width: 150px;
+}
+.followus{
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h2s{
+    color: #ffffff;
+}
+.redd{
+    border: 2px solid #cc1d24;
+}
+.lii{
+    color: #ffffff;
+    font-weight: 100px;
+    font-family: dosis;
+}
+.lii:hover{
+    color: #cc1d24;
+    transition-duration: 0.3s;
+}
+.reddd{
+    width: 150px;
+    border: 2px solid #cc1d24;
+}
+.footer{
+    padding-bottom: 50px;
+    border-top: 2px solid #cc1d24;
+    padding-top: 50px;
+}
